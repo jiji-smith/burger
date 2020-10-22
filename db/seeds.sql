@@ -1,4 +1,4 @@
-INSERT INTO burgers (burger_name, dirnk_type, total, set_menu) VALUES ('cheese burger', 'coke', 8.50, True);
-INSERT INTO burgers (burger_name, dirnk_type, total, set_menu) VALUES ('veggie burger', 'pepsi', 7.50, True);
-INSERT INTO burgers (burger_name, dirnk_type, total, set_menu) VALUES ('chicekn burger', 'juice', 8.00, False);
+INSERT INTO burgers (id, burger_name, devoured) VALUES (1,'cheese burger',  True);
+INSERT INTO burgers (id, burger_name, devoured) VALUES (2,'veggie burger',  True);
+INSERT INTO burgers (id, burger_name, devoured) VALUES (3,'chicekn burger', False);
 
