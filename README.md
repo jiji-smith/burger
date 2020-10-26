@@ -1,8 +1,8 @@
-#BURGER BURGER YUM YUM
+# BURGER BURGER YUM YUM
 
 ![Language](https://img.shields.io/github/languages/top/jiji-smith/burger)
 ## Title
-README Generator
+EAT-DA-BURGER!!!!
 ## Description
 > Eat-Da-Burger! is a restaurant app that lets users input the names of burgers they'd like to eat.
 > Whenever a user submits a burger's name, your app will display the burger on the left side of the page -- waiting to be devoured.
