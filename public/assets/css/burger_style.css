@@ -1,37 +1,17 @@
-.chirp {
-    padding: 10px;
-    margin: 10px;
-    background-color: #e8f9ff;
-  }
+h1 {
+  font-family: 'Henny Penny', cursive;
+  text-align: center;
+  padding: 10px;
+}
 
-  .cool-font {
-    font-family: Shrikhand, cursive;
-    font-size: 24px;
-    color: #1da1f2;
-  }
+.btn {
+color: #333333;
+background: #FFFFFF;
+border: 1px solid #1C6EA4;
+border-radius: 5px 5px 5px 5px;
+text-shadow: 2px 2px 0px #FFFFFF, 5px 4px 0px rgba(0,0,0,0.15);
+}
 
-  .jumbotron {
-    font-family: Shrikhand, cursive;
-    color: white;
-    background-color: #1da1f2;
-  }
-
-  input,
-  textarea {
-    margin: 20px;
-  }
-
-  .btn {
-    margin: 10px;
-    font-family: Shrikhand, cursive;
-    color: #1da1f2;
-    background-color: white;
-    border-color: #1da1f2;
-    border-style: solid;
-    border-width: 2px;
-  }
-
-  p {
-    margin: 0;
-    font-size: 16px;
-  }
+body {
+  font-family: 'Indie Flower', cursive;
+}
