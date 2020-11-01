@@ -14,12 +14,9 @@ EAT-DA-BURGER!!!!
 * [Title](#title)
 * [Description](#description)
 * [Table of Contents](#table-of-contents)
-* [Usage](#usage)
 * [License](#license)
 * [Contributing](#contributing)
 * [Video](#video)
-* [Tests](#tests)
-* [Questions](#questions)
 
 ## Installation
 Please check https://github.com/jiji-smith/burger
@@ -30,8 +27,32 @@ MIT License
 Jiiiii
 ## Video
 [Postman_POST/PUSH](https://youtu.be/Pq0_BlBrRC8)
-## Tests
+[How it works - Check HERE](https://youtu.be/9ed4PV0XC0A)
 
-## Questions
-Nope
+📦config
+ ┣ 📜connection.js
+ ┗ 📜orm.js
+ 📦controllers
+ ┗ 📜burgers_controller.js
+ 📦db
+ ┣ 📜schema.sql
+ ┗ 📜seeds.sql
+ 📦models
+ ┗ 📜burger.js
+ 📦node_modules
+ 📦public
+ ┗ 📂assets
+ ┃ ┣ 📂css
+ ┃ ┃ ┗ 📜burger_style.css
+ ┃ ┣ 📂img
+ ┃ ┃ ┗ 📜burger.png
+ ┃ ┗ 📂js
+ ┃ ┃ ┗ 📜script.js
+ 📦views
+ ┣ 📂layouts
+ ┃ ┗ 📜main.handlebars
+ ┣ 📂partials
+ ┃ ┗ 📜burger-block.handlebars
+ ┗ 📜index.handlebars
+ 
 
