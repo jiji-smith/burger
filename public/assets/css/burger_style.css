@@ -29,7 +29,9 @@ body {
   font-family: 'Lobster Two', cursive;
 }
 
-.burger{
+
+.center{
   text-align: center;
+  list-style-position: inside;
 }
 

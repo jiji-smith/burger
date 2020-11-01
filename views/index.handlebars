@@ -17,9 +17,9 @@
 </div>
 
 <div class="row">
-    <div class="col-sm-6 burger">
-        <h2>Burgers to devour</h2>
-            <ol>
+    <div class="col-sm-6">
+        <h2 align="center">Burgers to devour</h2>
+            <ol class="center">
             {{#each burgers}}
                 {{#unless devoured}}
                 {{> burger-block   devourBtn=true}}
@@ -27,9 +27,9 @@
             {{/each}}
             </ol>
     </div>
-    <div class="col-sm-6 burger">
-        <h2>Burgers you devoured</h2>
-        <ol>
+    <div class="col-sm-6">
+        <h2 align="center">Burgers you devoured</h2>
+        <ol class="center">
         {{#each burgers}}
             {{#if devoured}}
             {{> burger-block   devourBtn=false}}
