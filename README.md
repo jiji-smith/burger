@@ -1,5 +1,6 @@
 # BURGER BURGER YUM YUM
 
+![Img](./public/assets/img/EatDaburger.png)
 ![Language](https://img.shields.io/github/languages/top/jiji-smith/burger)
 ## Title
 EAT-DA-BURGER!!!!
@@ -55,5 +56,5 @@ Jiiiii
  ┣ 📂partials\
  ┃ ┗ 📜burger-block.handlebars\
  ┗ 📜index.handlebars\
- 
+
 
