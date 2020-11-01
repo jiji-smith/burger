@@ -1,7 +1,7 @@
 # BURGER BURGER YUM YUM
-
-![Img](./public/assets/img/EatDaburger.png)
 ![Language](https://img.shields.io/github/languages/top/jiji-smith/burger)
+![](https://github.com/jiji-smith/burger/blob/main/public/assets/img/EatDaBurger.png)
+
 ## Title
 EAT-DA-BURGER!!!!
 ## Description
