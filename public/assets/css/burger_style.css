@@ -1,6 +1,19 @@
+body {
+  background-image: url('https://images.pexels.com/photos/1639562/pexels-photo-1639562.jpeg?auto=compress&amp;cs=tinysrgb&amp;dpr=1&amp;w=500');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  color: #F0F8FF;
+}
+
 h1 {
   font-family: 'Henny Penny', cursive;
   text-align: center;
+  padding: 10px;
+  color: #F0F8FF;
+}
+
+.row {
   padding: 10px;
 }
 
@@ -13,5 +26,6 @@ text-shadow: 2px 2px 0px #FFFFFF, 5px 4px 0px rgba(0,0,0,0.15);
 }
 
 body {
-  font-family: 'Indie Flower', cursive;
+  font-family: 'Lobster Two', cursive;
 }
+

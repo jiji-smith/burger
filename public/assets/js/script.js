@@ -16,7 +16,7 @@ $("#submit").on("click", function () {
 
 $(".devourBtn").on("click", function () {
     event.preventDefault();
-    let id = $(this).data("burger-id");
+    let id = $(this).data("id");
     console.log(id)
 
     $.ajax("/api/burgers/" + id, {
