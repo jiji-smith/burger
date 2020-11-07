@@ -1,4 +1,4 @@
-[Heroku](https://immense-coast-29487.herokuapp.com/)
+[Click Here to Check!](https://immense-coast-29487.herokuapp.com/)
 
 # BURGER BURGER YUM YUM
 ![Language](https://img.shields.io/github/languages/top/jiji-smith/burger)
