@@ -1,3 +1,5 @@
+[Heroku](https://immense-coast-29487.herokuapp.com/)
+
 # BURGER BURGER YUM YUM
 ![Language](https://img.shields.io/github/languages/top/jiji-smith/burger)
 ![](https://github.com/jiji-smith/burger/blob/main/public/assets/img/EatDaBurger.png)
@@ -29,6 +31,7 @@ Jiiiii
 ## Video
 [Postman_POST/PUSH](https://youtu.be/Pq0_BlBrRC8)\
 [How it works - Check HERE](https://youtu.be/9ed4PV0XC0A)
+[Heroku](https://immense-coast-29487.herokuapp.com/)
 
 ## File Tree
 📦config\
